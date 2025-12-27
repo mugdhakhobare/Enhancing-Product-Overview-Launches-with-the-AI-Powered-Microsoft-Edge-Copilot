@@ -34,7 +34,8 @@ This project simulated the role of a CEO preparing to launch an urban e‑bike i
 - Practiced resilient problem‑solving with errors and dependencies
 - Leveraged AI tools (Copilot) for faster document creation and scenario planning
 
-  📌 Remark
+📌 Remark
+
 This project demonstrates a holistic approach to product launch planning — from strategy and financial viability to marketing execution and investor communication — showcasing the ability to think like a business leader while executing with technical precision.
 
 
